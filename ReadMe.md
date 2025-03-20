@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/jx3rng6H)
 # Assignment | C Programming 
 
 A Smart Home Automation System is being designed to manage and monitor different appliances and sensors in a house. Since the hardware is not available, You will simulate this system using standard C programming with GCC.
