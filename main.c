@@ -80,7 +80,7 @@ int main() {
 
         // Energy-saving suggestion
         if (allLightsOn(numRooms, lights)) {
-            printf("⚠️ All lights are ON! Consider turning some off to save energy.\n");
+            printf("⚠ All lights are ON! Consider turning some off to save energy.\n");
         }
     }
 }
